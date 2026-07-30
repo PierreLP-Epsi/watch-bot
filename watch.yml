@@ -1,0 +1,38 @@
+name: Cybersecurity watch -> Discord
+
+on:
+  schedule:
+    # Every day at 7:00 UTC (~9am French time in summer, 8am in winter)
+    - cron: "0 7 * * *"
+  workflow_dispatch: {} # allows running it manually from GitHub
+
+permissions:
+  contents: write # required to commit state.json
+
+jobs:
+  run-watch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run the watch bot
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python watch_bot.py
+
+      - name: Save state (state.json)
+        run: |
+          git config user.name "watch-bot"
+          git config user.email "watch-bot@users.noreply.github.com"
+          git add state.json
+          git diff --staged --quiet || git commit -m "Update state.json [skip ci]"
+          git push
