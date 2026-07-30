@@ -24,7 +24,7 @@ channel, once a day.
 
 ### 4. Test manually
 1. Go to the repo's **Actions** tab.
-2. Select the **"Cybersecurity watch -> Discord"** workflow.
+2. Select the **"Watch-bot -> Discord"** workflow.
 3. Click **Run workflow** (button on the right) to run it once.
 4. Check that the messages arrive in your Discord channel.
 

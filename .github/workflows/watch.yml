@@ -1,4 +1,4 @@
-name: Cybersecurity watch -> Discord
+name: Watch-bot -> Discord
 
 on:
   schedule:
