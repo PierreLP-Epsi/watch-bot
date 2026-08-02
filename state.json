@@ -62,7 +62,9 @@
     "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
     "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html",
     "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
-    "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html"
+    "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
+    "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
+    "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -96,7 +98,8 @@
     "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
     "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
     "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
-    "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/"
+    "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
+    "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -242,7 +245,8 @@
     "https://isc.sans.edu/diary/rss/33182",
     "https://isc.sans.edu/diary/rss/33202",
     "https://isc.sans.edu/diary/rss/33204",
-    "https://isc.sans.edu/diary/rss/33206"
+    "https://isc.sans.edu/diary/rss/33206",
+    "https://isc.sans.edu/diary/rss/33208"
   ],
   "Cisco Talos Intelligence": [
     "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
@@ -2561,7 +2565,8 @@
     "https://www.zataz.com/voiture-connectee-quelles-donnees-guident-lentretien/",
     "https://www.zataz.com/cyber-actualites-zataz-de-la-semaine-du-27-juillet-au-2-aout-2026/",
     "https://www.zataz.com/un-pirate-revendique-un-acces-au-crm-deni/",
-    "https://www.zataz.com/hacktivisme-une-fuite-macronleak-de-2017-contre-chat-control-ressort-du-darkweb/"
+    "https://www.zataz.com/hacktivisme-une-fuite-macronleak-de-2017-contre-chat-control-ressort-du-darkweb/",
+    "https://www.zataz.com/cybersmile-la-playlist-dete-de-zataz-est-de-sortie/"
   ],
   "Undernews": [
     "https://www.undernews.fr/malwares-virus-antivirus/nouveau-voleur-de-donnees-macos-decouvert-par-group-ib-aucune-detection-sur-virustotal-aucune-exploitation-requise.html",
@@ -2583,6 +2588,11 @@
     "https://www.undernews.fr/malwares-virus-antivirus/ransomware-quand-lia-execute-toute-la-chaine-dattaque.html",
     "https://www.undernews.fr/reseau-securite/phishing-hoax/unk_masstraction-une-campagne-despionnage-qui-transforme-les-serveurs-mail-pour-infiltrer-les-reseaux.html",
     "https://www.undernews.fr/hacking-hacktivisme/securite-offensive-quand-les-attaquants-ciblent-les-chercheurs-yeswehack-et-sekoia-devoilent-la-campagne-malveillante-chocopocs.html",
-    "https://www.undernews.fr/malwares-virus-antivirus/pme-les-attaques-par-malwares-via-de-fausses-ia-multipliees-par-5-selon-le-rapport-kaspersky.html"
+    "https://www.undernews.fr/malwares-virus-antivirus/pme-les-attaques-par-malwares-via-de-fausses-ia-multipliees-par-5-selon-le-rapport-kaspersky.html",
+    "https://www.undernews.fr/hacking-hacktivisme/une-nouvelle-campagne-despionnage-russe-ciblant-les-utilisateurs-zimbra-decouverte-par-proofpoint-la-nsa-et-le-fbi.html",
+    "https://www.undernews.fr/contrefacon-cracking/le-faux-7-zip-qui-cache-230-domaines-de-proxy.html",
+    "https://www.undernews.fr/telephonie-phreaking-voip/forfaits-mobiles-a-letranger-attention-aux-faux-sites-doperateurs-cet-ete.html",
+    "https://www.undernews.fr/malwares-virus-antivirus/rancongiciels-et-ia-65-des-entreprises-francaises-constatent-des-attaques-plus-efficaces.html",
+    "https://www.undernews.fr/malwares-virus-antivirus/decouverte-de-cruciferra-un-nouveau-service-de-chiffrement-qui-dissimule-les-chevaux-de-troie-et-infostealers.html"
   ]
 }
