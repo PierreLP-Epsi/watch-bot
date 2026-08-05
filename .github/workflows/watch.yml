@@ -2,8 +2,8 @@ name: Watch-bot -> Discord
 
 on:
   schedule:
-    # Every day at 7:00 UTC (~9am French time in summer, 8am in winter)
-    - cron: "0 7 * * *"
+    # Every day at 7:13 UTC
+    - cron: "13 7 * * *"
   workflow_dispatch: {} # allows running it manually from GitHub
 
 permissions:
