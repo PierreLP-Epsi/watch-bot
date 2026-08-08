@@ -111,7 +111,21 @@
     "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
     "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html",
     "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html",
-    "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html"
+    "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
+    "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
+    "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
+    "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
+    "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
+    "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
+    "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
+    "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+    "https://thehackernews.com/2026/08/growing-up-hard-way.html",
+    "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
+    "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
+    "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
+    "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
+    "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
+    "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -177,7 +191,12 @@
     "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
     "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
     "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
-    "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/"
+    "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
+    "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
+    "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
+    "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
+    "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
+    "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -252,7 +271,17 @@
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0973/",
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0974/",
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0975/",
-    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0976/"
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0976/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0977/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0978/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0979/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0980/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0981/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0982/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0983/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0984/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0985/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0986/"
   ],
   "CISA Advisories": [
     "https://www.cisa.gov/resources-tools/resources/2026-minimum-elements-software-bill-materials-sbom",
@@ -305,7 +334,9 @@
     "https://www.cisa.gov/news-events/alerts/2026/08/05/cisa-adds-one-known-exploited-vulnerability-catalog",
     "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-218-01",
     "https://www.cisa.gov/news-events/ics-advisories/icsa-26-218-02",
-    "https://www.cisa.gov/news-events/ics-advisories/icsa-26-218-01"
+    "https://www.cisa.gov/news-events/ics-advisories/icsa-26-218-01",
+    "https://www.cisa.gov/news-events/alerts/2026/08/07/cisa-adds-one-known-exploited-vulnerability-catalog",
+    "https://www.cisa.gov/news-events/ics-advisories/icsa-26-219-01"
   ],
   "Krebs on Security": [
     "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -341,7 +372,9 @@
     "https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html",
     "https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html",
     "https://www.schneier.com/blog/archives/2026/08/vulnerabilities-in-car-anti-theft-device.html",
-    "https://www.schneier.com/blog/archives/2026/08/adversarial-clothing-designed-to-fool-facial-recognition-systems.html"
+    "https://www.schneier.com/blog/archives/2026/08/adversarial-clothing-designed-to-fool-facial-recognition-systems.html",
+    "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-arctic-bobtail-squid-video.html",
+    "https://www.schneier.com/blog/archives/2026/08/ice-is-buying-access-to-credit-card-records.html"
   ],
   "SANS Internet Storm Center": [
     "https://isc.sans.edu/diary/rss/33200",
@@ -414,7 +447,12 @@
     "https://therecord.media/guilty-plea-snowflake-hack-connor-riley-moucka",
     "https://therecord.media/de-bijenkorf-luxury-retailer-third-party-cyber-incident",
     "https://therecord.media/iran-cyberattacks-water-treatment",
-    "https://therecord.media/anthropic-ai-hacking-uk"
+    "https://therecord.media/anthropic-ai-hacking-uk",
+    "https://therecord.media/water-watch-center-utilities-def-con-franklin-nrwa",
+    "https://therecord.media/adam-cassady-confirmed-senate-cyber-ambassador",
+    "https://therecord.media/new-mexico-judge-orders-meta-567-million-kids-safety",
+    "https://therecord.media/military-device-manufacturer-discloses-cyber-incident",
+    "https://therecord.media/irregular-ai-security-company-incidents"
   ],
   "NCSC UK": [
     "https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027",
@@ -1552,7 +1590,9 @@
     "https://openai.com/index/introducing-the-openai-economic-research-exchange",
     "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
     "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-    "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
+    "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "https://openai.com/index/hsp-gruppe"
   ],
   "Anthropic News": [
     "https://www.anthropic.com/news/position-open-weights-models",
@@ -1717,7 +1757,9 @@
     "https://claude.com/blog/a-guide-to-cost-visibility-and-control-in-claude",
     "https://claude.com/blog/claude-enterprise-inference-hooks",
     "https://claude.com/blog/millennium-and-anthropic-are-building-a-digital-risk-analyst-with-claude",
-    "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute"
+    "https://claude.com/blog/run-claude-code-sessions-on-your-own-compute",
+    "https://claude.com/blog/auto-mode-default-in-claude-code",
+    "https://claude.com/blog/auto-mode-in-production"
   ],
   "Cursor Blog": [
     "https://cursor.com/changelog/ipad",
@@ -1789,7 +1831,11 @@
     "https://blog.cloudflare.com/aeo/",
     "https://blog.cloudflare.com/the-agentic-internet/",
     "https://blog.cloudflare.com/kitesurf/",
-    "https://blog.cloudflare.com/webmcp/"
+    "https://blog.cloudflare.com/webmcp/",
+    "https://blog.cloudflare.com/good-and-bad-agentic-behaviors/",
+    "https://blog.cloudflare.com/introducing-radar-researcher/",
+    "https://blog.cloudflare.com/community-program-refresh/",
+    "https://blog.cloudflare.com/workers-ai-gateway-unification/"
   ],
   "Hugging Face - Blog": [
     "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
@@ -2627,7 +2673,8 @@
     "https://huggingface.co/blog/how-to-train",
     "https://huggingface.co/blog/Dharma-AI/gpu-management",
     "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-    "https://huggingface.co/blog/baseten"
+    "https://huggingface.co/blog/baseten",
+    "https://huggingface.co/blog/allenai/tutormoments"
   ],
   "Mistral AI": [
     "https://mistral.ai/news/manage-prompts-and-skills-in-studio/",
@@ -2762,7 +2809,14 @@
     "https://www.zataz.com/sanction-de-23andme-apres-une-fuite-de-donnees/",
     "https://www.zataz.com/un-coup-de-pouce-pour-une-ceramiste-qui-a-tout-perdu/",
     "https://www.zataz.com/une-cyberattaque-vise-plus-de-30-reseaux-deau/",
-    "https://www.zataz.com/lue-valide-une-initiative-contre-lidentite-numerique/"
+    "https://www.zataz.com/lue-valide-une-initiative-contre-lidentite-numerique/",
+    "https://www.zataz.com/qilin-menace-de-publier-des-donnees-du-stade-francais/",
+    "https://www.zataz.com/presidentielle-zataz-vous-plonge-au-coeur-dune-operation-numerique-qui-pourrait-vous-pieger/",
+    "https://www.zataz.com/lingerence-informationnelle-teste-le-terrain-electoral-francais/",
+    "https://www.zataz.com/commerce-pirate-un-cybercriminel-vend-des-dizaines-de-teraoctets-de-donnees/",
+    "https://www.zataz.com/cybernox-multiplie-les-revendications-de-fuites-en-france/",
+    "https://www.zataz.com/fuite-massive-de-donnees-rh/",
+    "https://www.zataz.com/des-cibles-francaises-au-coeur-dune-plateforme-cybercriminelle/"
   ],
   "Undernews": [
     "https://www.undernews.fr/malwares-virus-antivirus/nouveau-voleur-de-donnees-macos-decouvert-par-group-ib-aucune-detection-sur-virustotal-aucune-exploitation-requise.html",
