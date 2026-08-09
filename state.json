@@ -125,7 +125,9 @@
     "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
     "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
     "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
-    "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html"
+    "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
+    "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
+    "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -196,7 +198,8 @@
     "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
     "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
     "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
-    "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/"
+    "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
+    "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -2816,7 +2819,13 @@
     "https://www.zataz.com/commerce-pirate-un-cybercriminel-vend-des-dizaines-de-teraoctets-de-donnees/",
     "https://www.zataz.com/cybernox-multiplie-les-revendications-de-fuites-en-france/",
     "https://www.zataz.com/fuite-massive-de-donnees-rh/",
-    "https://www.zataz.com/des-cibles-francaises-au-coeur-dune-plateforme-cybercriminelle/"
+    "https://www.zataz.com/des-cibles-francaises-au-coeur-dune-plateforme-cybercriminelle/",
+    "https://www.zataz.com/cyber-actualites-zataz-de-la-semaine-du-3-au-9-aout-2026/",
+    "https://www.zataz.com/un-milliard-didentifiants-francais-sur-le-darkweb/",
+    "https://www.zataz.com/rancongiciels-43-revendications-ciblent-la-france/",
+    "https://www.zataz.com/des-pirates-revendiquent-le-piratage-dun-miroir-de-coco/",
+    "https://www.zataz.com/un-pirate-plaide-coupable-apres-165-piratages/",
+    "https://www.zataz.com/levi-strauss-signale-une-cyberattaque/"
   ],
   "Undernews": [
     "https://www.undernews.fr/malwares-virus-antivirus/nouveau-voleur-de-donnees-macos-decouvert-par-group-ib-aucune-detection-sur-virustotal-aucune-exploitation-requise.html",
