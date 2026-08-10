@@ -127,7 +127,9 @@
     "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
     "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
     "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
-    "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html"
+    "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
+    "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
+    "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -402,7 +404,8 @@
     "https://isc.sans.edu/diary/rss/33220",
     "https://isc.sans.edu/diary/rss/33218",
     "https://isc.sans.edu/diary/rss/33226",
-    "https://isc.sans.edu/diary/rss/33224"
+    "https://isc.sans.edu/diary/rss/33224",
+    "https://isc.sans.edu/diary/rss/33228"
   ],
   "Cisco Talos Intelligence": [
     "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
