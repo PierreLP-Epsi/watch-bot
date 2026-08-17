@@ -289,7 +289,11 @@
     "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
     "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
     "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/",
-    "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/"
+    "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
+    "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
+    "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
+    "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -582,7 +586,9 @@
     "https://isc.sans.edu/diary/rss/33244",
     "https://isc.sans.edu/diary/rss/33242",
     "https://isc.sans.edu/diary/rss/33240",
-    "https://isc.sans.edu/diary/rss/33246"
+    "https://isc.sans.edu/diary/rss/33246",
+    "https://isc.sans.edu/diary/rss/33250",
+    "https://isc.sans.edu/diary/rss/33248"
   ],
   "Cisco Talos Intelligence": [
     "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
@@ -3072,7 +3078,9 @@
     "https://korben.info/shieldbreak-zero-day-defender-microsoft.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/twitch-desactiver-entrainement-ia-amazon.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/implant-boeing-737-port-maintenance-arinc-429.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-    "https://korben.info/holeberry-pi-hole-barre-menus-macos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
+    "https://korben.info/holeberry-pi-hole-barre-menus-macos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/en-italie-une-affiche-apple-avec-un-enfant-fait-plemique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/winpodx.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
   ],
   "ZATAZ": [
     "https://www.zataz.com/planity-visee-par-une-vente-presumee-de-donnees-piratees/",
