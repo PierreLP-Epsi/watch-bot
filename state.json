@@ -161,7 +161,32 @@
     "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
     "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
     "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-    "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html"
+    "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+    "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+    "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+    "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+    "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
+    "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
+    "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+    "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+    "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
+    "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+    "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
+    "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
+    "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html",
+    "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
+    "https://thehackernews.com/2026/08/mustang-panda-adds-signed-windows.html",
+    "https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html",
+    "https://thehackernews.com/2026/08/ctm360-uncovers-over-3000-recruitment.html",
+    "https://thehackernews.com/2026/08/apple-warns-users-in-110-countries-they.html",
+    "https://thehackernews.com/2026/08/trump-memo-paves-way-for-us-firms-to.html",
+    "https://thehackernews.com/2026/08/china-linked-jewelbug-uses-xg-web-for.html",
+    "https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html",
+    "https://thehackernews.com/2026/08/threatsday-ghostjacking-ai-attacks.html",
+    "https://thehackernews.com/2026/08/new-patchcord-backdoor-targets-afghan.html",
+    "https://thehackernews.com/2026/08/amnesiastealer-hijacks-chromium.html",
+    "https://thehackernews.com/2026/08/windrelay-android-malware-turns-victims.html",
+    "https://thehackernews.com/2026/08/north-korean-remote-workers-are.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -293,7 +318,15 @@
     "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
     "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
     "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
-    "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/"
+    "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
+    "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
+    "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
+    "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
+    "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
+    "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
+    "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
+    "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -430,7 +463,10 @@
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1029/",
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1030/",
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1031/",
-    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1032/"
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1032/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1033/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1034/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1035/"
   ],
   "CISA Advisories": [
     "https://www.cisa.gov/resources-tools/resources/2026-minimum-elements-software-bill-materials-sbom",
@@ -504,7 +540,8 @@
     "https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-02",
     "https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-01",
     "https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-04",
-    "https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-06"
+    "https://www.cisa.gov/news-events/ics-advisories/icsa-26-225-06",
+    "https://www.cisa.gov/news-events/alerts/2026/08/17/cisa-adds-one-known-exploited-vulnerability-catalog"
   ],
   "Krebs on Security": [
     "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -552,7 +589,8 @@
     "https://www.schneier.com/blog/archives/2026/08/separating-ais-technological-problems-from-its-capitalism-problems.html",
     "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html",
     "https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html",
-    "https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html"
+    "https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html",
+    "https://www.schneier.com/blog/archives/2026/08/hacking-public-wi-fi-dns-to-steal-credentials.html"
   ],
   "SANS Internet Storm Center": [
     "https://isc.sans.edu/diary/rss/33200",
@@ -588,7 +626,10 @@
     "https://isc.sans.edu/diary/rss/33240",
     "https://isc.sans.edu/diary/rss/33246",
     "https://isc.sans.edu/diary/rss/33250",
-    "https://isc.sans.edu/diary/rss/33248"
+    "https://isc.sans.edu/diary/rss/33248",
+    "https://isc.sans.edu/diary/rss/33256",
+    "https://isc.sans.edu/diary/rss/33254",
+    "https://isc.sans.edu/diary/rss/33252"
   ],
   "Cisco Talos Intelligence": [
     "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
@@ -665,7 +706,12 @@
     "https://therecord.media/trump-cyber-crime-offensive",
     "https://therecord.media/germany-spy-agency-powers",
     "https://therecord.media/investigation-into-banking-hack-leads-to-arrests-germany-brazil",
-    "https://therecord.media/french-tax-authority-dgfip-confirms-data-breach"
+    "https://therecord.media/french-tax-authority-dgfip-confirms-data-breach",
+    "https://therecord.media/financial-info-leak-debt-consolidator",
+    "https://therecord.media/safepal-crypto-hardware-breach",
+    "https://therecord.media/irregular-ai-hacking-model-blog",
+    "https://therecord.media/poland-probes-mydr-healthcare-software-breach",
+    "https://therecord.media/russia-wildberries-cyberattack-ukraine"
   ],
   "NCSC UK": [
     "https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027",
@@ -1822,7 +1868,10 @@
     "https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex",
     "https://openai.com/index/builders-guide-to-gpt-5-6",
     "https://openai.com/index/previewing-ultrafast",
-    "https://openai.com/index/dali-rajic-chief-revenue-officer"
+    "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "https://openai.com/index/the-defenders-window",
+    "https://openai.com/index/openai-joins-ports-pike-project",
+    "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
   ],
   "Anthropic News": [
     "https://www.anthropic.com/news/position-open-weights-models",
@@ -1972,7 +2021,8 @@
     "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
     "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
     "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-    "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
+    "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+    "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/"
   ],
   "Claude Blog": [
     "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
@@ -2002,7 +2052,8 @@
     "https://claude.com/blog/self-service-data-analytics-in-slack-how-anthropic-deploys-claude-tag-for-ad-hoc-questions",
     "https://claude.com/blog/claude-tag-now-reads-even-more-of-the-room",
     "https://claude.com/blog/how-jetbrains-evaluates-and-deploys-claude-fable-5",
-    "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions"
+    "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "https://claude.com/blog/how-abc-legal-turned-every-employee-into-a-builder-with-claude-managed-agents"
   ],
   "Cursor Blog": [
     "https://cursor.com/changelog/ipad",
@@ -2029,7 +2080,8 @@
     "https://cursor.com/blog/vercel",
     "https://cursor.com/blog/grok-4-6",
     "https://cursor.com/changelog/08-13-26",
-    "https://cursor.com/blog/joining-spacex"
+    "https://cursor.com/blog/joining-spacex",
+    "https://cursor.com/changelog/origin-code-hosting"
   ],
   "Cloudflare Blog": [
     "https://blog.cloudflare.com/cdnjs-dev-platform-migration/",
@@ -2936,7 +2988,8 @@
     "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
     "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
     "https://huggingface.co/blog/icml-2026-open-reproductions",
-    "https://huggingface.co/blog/state-of-open-models-summer-2026"
+    "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2"
   ],
   "Mistral AI": [
     "https://mistral.ai/news/manage-prompts-and-skills-in-studio/",
@@ -3080,7 +3133,11 @@
     "https://korben.info/implant-boeing-737-port-maintenance-arinc-429.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/holeberry-pi-hole-barre-menus-macos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/en-italie-une-affiche-apple-avec-un-enfant-fait-plemique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-    "https://korben.info/winpodx.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
+    "https://korben.info/winpodx.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/amazon-sponsored-products-remover.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/retour-domotique-home-assistant-mini-pc.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/puremac-nettoyeur-macos-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/un-satellite-gros-comme-une-valise-cabine-va-ecouter-le-debut-de-lunivers-depuis-la-face-cachee-de-la-lune.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
   ],
   "ZATAZ": [
     "https://www.zataz.com/planity-visee-par-une-vente-presumee-de-donnees-piratees/",
@@ -3143,7 +3200,8 @@
     "https://www.zataz.com/ghost-tap-une-fraude-nfc-signalee-depuis-pattaya/",
     "https://www.zataz.com/maisons-du-monde-une-fuite-au-timing-troublant/",
     "https://www.zataz.com/cyberharcelement-la-belgique-prepare-un-bannissement-numerique/",
-    "https://www.zataz.com/eva-visee-par-une-nouvelle-fuite-de-donnees/"
+    "https://www.zataz.com/eva-visee-par-une-nouvelle-fuite-de-donnees/",
+    "https://www.zataz.com/education-nationale-un-pirate-annonce-une-fuite-qui-exposerait-des-millions-de-donnees/"
   ],
   "Undernews": [
     "https://www.undernews.fr/malwares-virus-antivirus/nouveau-voleur-de-donnees-macos-decouvert-par-group-ib-aucune-detection-sur-virustotal-aucune-exploitation-requise.html",
