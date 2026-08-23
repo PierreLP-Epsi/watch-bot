@@ -227,7 +227,8 @@
     "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
     "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
     "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
-    "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html"
+    "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+    "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -403,7 +404,9 @@
     "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
     "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
     "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
-    "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/"
+    "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
+    "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
+    "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -3428,7 +3431,15 @@
     "https://www.zataz.com/un-recrutement-vpn-francais-intrigue-sur-un-forum-pirate/",
     "https://www.zataz.com/deux-millions-de-donnees-francaises-mises-en-vente/",
     "https://www.zataz.com/c-hunters-un-service-pirate-teste-pour-la-france/",
-    "https://www.zataz.com/encore-encore-encore-un-nouveau-groupe-ransomware-sovcali/"
+    "https://www.zataz.com/encore-encore-encore-un-nouveau-groupe-ransomware-sovcali/",
+    "https://www.zataz.com/cyber-actualites-zataz-de-la-semaine-du-17-au-23-aout-2026/",
+    "https://www.zataz.com/shinyhunters-menace-logitech-et-streamlabs/",
+    "https://www.zataz.com/rentree-scolaire-2026-les-arnaques-a-surveiller/",
+    "https://www.zataz.com/une-chemise-a-10-e-et-le-piege-se-referme/",
+    "https://www.zataz.com/chess-com-un-nouveau-pirate-revendique-73-millions-de-profils/",
+    "https://www.zataz.com/lockbit-5-0-menace-de-publier-des-donnees-dactua/",
+    "https://www.zataz.com/coree-du-sud-des-responsables-politiques-vises-par-une-fuite/",
+    "https://www.zataz.com/ransomware-avec-181-victimes-2026-depasse-deja-toute-lannee-2025/"
   ],
   "Undernews": [
     "https://www.undernews.fr/malwares-virus-antivirus/nouveau-voleur-de-donnees-macos-decouvert-par-group-ib-aucune-detection-sur-virustotal-aucune-exploitation-requise.html",
