@@ -406,7 +406,8 @@
     "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
     "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
     "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
-    "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/"
+    "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
+    "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -772,7 +773,8 @@
     "https://isc.sans.edu/diary/rss/33270",
     "https://isc.sans.edu/diary/rss/33268",
     "https://isc.sans.edu/diary/rss/33266",
-    "https://isc.sans.edu/diary/rss/33264"
+    "https://isc.sans.edu/diary/rss/33264",
+    "https://isc.sans.edu/diary/rss/33276"
   ],
   "Cisco Talos Intelligence": [
     "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
@@ -3439,7 +3441,8 @@
     "https://www.zataz.com/chess-com-un-nouveau-pirate-revendique-73-millions-de-profils/",
     "https://www.zataz.com/lockbit-5-0-menace-de-publier-des-donnees-dactua/",
     "https://www.zataz.com/coree-du-sud-des-responsables-politiques-vises-par-une-fuite/",
-    "https://www.zataz.com/ransomware-avec-181-victimes-2026-depasse-deja-toute-lannee-2025/"
+    "https://www.zataz.com/ransomware-avec-181-victimes-2026-depasse-deja-toute-lannee-2025/",
+    "https://www.zataz.com/aix-marseille-visee-par-une-fraude-aux-frais-scolaires/"
   ],
   "Undernews": [
     "https://www.undernews.fr/malwares-virus-antivirus/nouveau-voleur-de-donnees-macos-decouvert-par-group-ib-aucune-detection-sur-virustotal-aucune-exploitation-requise.html",
