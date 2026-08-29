@@ -280,7 +280,9 @@
     "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
     "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
     "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
-    "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html"
+    "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
+    "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
+    "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -501,7 +503,9 @@
     "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
     "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
     "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
-    "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/"
+    "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
+    "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
+    "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -867,7 +871,8 @@
     "https://www.schneier.com/blog/archives/2026/08/black-hat-state-of-security-vendors.html",
     "https://www.schneier.com/blog/archives/2026/08/llm-based-social-engineering-scams.html",
     "https://www.schneier.com/blog/archives/2026/08/spyware-for-babies.html",
-    "https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html"
+    "https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html",
+    "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html"
   ],
   "SANS Internet Storm Center": [
     "https://isc.sans.edu/diary/rss/33200",
@@ -2229,7 +2234,8 @@
     "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
     "https://openai.com/index/loveholidays",
     "https://openai.com/index/introducing-intelligence-age",
-    "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
+    "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
   ],
   "Anthropic News": [
     "https://www.anthropic.com/news/position-open-weights-models",
@@ -2436,7 +2442,9 @@
     "https://claude.com/blog/claudes-memory-works-everywhere-and-you-decide-whats-in-it",
     "https://claude.com/blog/how-warp-builds-self-improving-agents-on-claude",
     "https://claude.com/blog/claude-in-chrome-generally-available",
-    "https://claude.com/blog/cowork-built-in-browser"
+    "https://claude.com/blog/cowork-built-in-browser",
+    "https://claude.com/blog/how-anthropic-employees-use-claude-tag",
+    "https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts"
   ],
   "Cursor Blog": [
     "https://cursor.com/changelog/ipad",
@@ -3393,7 +3401,8 @@
     "https://huggingface.co/blog/ibm-granite/granite-4-2",
     "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
     "https://huggingface.co/blog/pwc-search",
-    "https://huggingface.co/blog/train-multi-vector-encoder"
+    "https://huggingface.co/blog/train-multi-vector-encoder",
+    "https://huggingface.co/blog/open-asr-leaderboard-global-south"
   ],
   "Mistral AI": [
     "https://mistral.ai/news/manage-prompts-and-skills-in-studio/",
@@ -3668,7 +3677,8 @@
     "https://www.zataz.com/fuite-presumee-de-donnees-electorales-dominicaines/",
     "https://www.zataz.com/congo-un-pirate-revendique-110-000-donnees-e-solde/",
     "https://www.zataz.com/lia-pirate-qui-promet-anonymat-et-zero-filtre/",
-    "https://www.zataz.com/quand-les-fuites-de-donnees-ciblent-les-victimes/"
+    "https://www.zataz.com/quand-les-fuites-de-donnees-ciblent-les-victimes/",
+    "https://www.zataz.com/un-outil-pirate-a-500-e-pour-industrialiser-la-fraude/"
   ],
   "Undernews": [
     "https://www.undernews.fr/malwares-virus-antivirus/nouveau-voleur-de-donnees-macos-decouvert-par-group-ib-aucune-detection-sur-virustotal-aucune-exploitation-requise.html",
