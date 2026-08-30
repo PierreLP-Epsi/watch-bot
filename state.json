@@ -282,7 +282,9 @@
     "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
     "https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html",
     "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
-    "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html"
+    "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
+    "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
+    "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -505,7 +507,9 @@
     "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
     "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
     "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
-    "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/"
+    "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
+    "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -929,7 +933,8 @@
     "https://isc.sans.edu/diary/rss/33286",
     "https://isc.sans.edu/diary/rss/33284",
     "https://isc.sans.edu/diary/rss/33292",
-    "https://isc.sans.edu/diary/rss/33294"
+    "https://isc.sans.edu/diary/rss/33294",
+    "https://isc.sans.edu/diary/rss/33288"
   ],
   "Cisco Talos Intelligence": [
     "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
@@ -3575,7 +3580,8 @@
     "https://korben.info/openai-remet-la-limite-de-5-heures-sur-codex.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/ugreen-degaine-deux-chargeurs-nexode-pro-avec-ecran-de-controle-et-cable-retractable-jusqua-300-w.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/lexar-case-2-to-dans-une-microsd-tres-rapide.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-    "https://korben.info/nvidia-soffrirait-hugging-face-pour-129-milliards.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
+    "https://korben.info/nvidia-soffrirait-hugging-face-pour-129-milliards.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/openai-coupe-ses-modeles-a-cursor-apres-son-rachat-par-le-spacexai-de-musk.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
   ],
   "ZATAZ": [
     "https://www.zataz.com/planity-visee-par-une-vente-presumee-de-donnees-piratees/",
@@ -3678,7 +3684,9 @@
     "https://www.zataz.com/congo-un-pirate-revendique-110-000-donnees-e-solde/",
     "https://www.zataz.com/lia-pirate-qui-promet-anonymat-et-zero-filtre/",
     "https://www.zataz.com/quand-les-fuites-de-donnees-ciblent-les-victimes/",
-    "https://www.zataz.com/un-outil-pirate-a-500-e-pour-industrialiser-la-fraude/"
+    "https://www.zataz.com/un-outil-pirate-a-500-e-pour-industrialiser-la-fraude/",
+    "https://www.zataz.com/un-pirate-cible-a-nouveau-les-sdis-francais/",
+    "https://www.zataz.com/zero-logement-vacant-vise-par-une-fuite-massive/"
   ],
   "Undernews": [
     "https://www.undernews.fr/malwares-virus-antivirus/nouveau-voleur-de-donnees-macos-decouvert-par-group-ib-aucune-detection-sur-virustotal-aucune-exploitation-requise.html",
