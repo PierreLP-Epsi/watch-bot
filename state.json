@@ -289,7 +289,12 @@
     "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
     "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
     "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
-    "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html"
+    "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
+    "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
+    "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
+    "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
+    "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
+    "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -521,7 +526,15 @@
     "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/",
     "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/",
     "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
-    "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/"
+    "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
+    "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
+    "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
+    "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
+    "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
+    "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
+    "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -827,7 +840,8 @@
     "https://www.cisa.gov/news-events/ics-advisories/icsa-26-078-05",
     "https://www.cisa.gov/news-events/alerts/2026/08/26/cisa-adds-six-known-exploited-vulnerabilities-catalog",
     "https://www.cisa.gov/resources-tools/resources/cisa-vulnerability-review",
-    "https://www.cisa.gov/news-events/alerts/2026/08/27/cisa-adds-three-known-exploited-vulnerabilities-catalog"
+    "https://www.cisa.gov/news-events/alerts/2026/08/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+    "https://www.cisa.gov/news-events/alerts/2026/08/31/cisa-adds-two-known-exploited-vulnerabilities-catalog"
   ],
   "Krebs on Security": [
     "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -891,7 +905,9 @@
     "https://www.schneier.com/blog/archives/2026/08/spyware-for-babies.html",
     "https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html",
     "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html",
-    "https://www.schneier.com/blog/archives/2026/08/hiding-prompt-injection-in-legal-filing.html"
+    "https://www.schneier.com/blog/archives/2026/08/hiding-prompt-injection-in-legal-filing.html",
+    "https://www.schneier.com/blog/archives/2026/09/rewiring-democracy-series-on-the-renovator.html",
+    "https://www.schneier.com/blog/archives/2026/08/is-someone-hacking-dod-refrigerators.html"
   ],
   "SANS Internet Storm Center": [
     "https://isc.sans.edu/diary/rss/33200",
@@ -950,7 +966,10 @@
     "https://isc.sans.edu/diary/rss/33292",
     "https://isc.sans.edu/diary/rss/33294",
     "https://isc.sans.edu/diary/rss/33288",
-    "https://isc.sans.edu/diary/rss/33296"
+    "https://isc.sans.edu/diary/rss/33296",
+    "https://isc.sans.edu/diary/rss/33302",
+    "https://isc.sans.edu/diary/rss/33300",
+    "https://isc.sans.edu/diary/rss/33298"
   ],
   "Cisco Talos Intelligence": [
     "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
@@ -1073,7 +1092,10 @@
     "https://therecord.media/papercut-warns-of-hackers-using-printer-management-vulnerabilities",
     "https://therecord.media/trump-cyber-electricity-parts",
     "https://therecord.media/mckesson-cyberattack-ransomware-pharma",
-    "https://therecord.media/slovenia-cyberattack-casinos-reopen"
+    "https://therecord.media/slovenia-cyberattack-casinos-reopen",
+    "https://therecord.media/kansas-atm-jackpotting-guilty-pleas",
+    "https://therecord.media/crypto-tectonic-hack-cronos",
+    "https://therecord.media/berlin-says-it-wont-pay-ransom-after-hackers-steal-gov-data"
   ],
   "NCSC UK": [
     "https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027",
@@ -2258,7 +2280,10 @@
     "https://openai.com/index/loveholidays",
     "https://openai.com/index/introducing-intelligence-age",
     "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "https://openai.com/index/polimill",
+    "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
   ],
   "Anthropic News": [
     "https://www.anthropic.com/news/position-open-weights-models",
@@ -2277,7 +2302,8 @@
     "https://www.anthropic.com/news/claude-text-watermark",
     "https://www.anthropic.com/news/wellbeing-research-grants",
     "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-    "https://www.anthropic.com/news/expanding-support-for-scientists"
+    "https://www.anthropic.com/news/expanding-support-for-scientists",
+    "https://www.anthropic.com/news/improving-alignment-security-efforts"
   ],
   "Google DeepMind Blog": [
     "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
@@ -3601,7 +3627,9 @@
     "https://korben.info/lexar-case-2-to-dans-une-microsd-tres-rapide.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/nvidia-soffrirait-hugging-face-pour-129-milliards.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/openai-coupe-ses-modeles-a-cursor-apres-son-rachat-par-le-spacexai-de-musk.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-    "https://korben.info/la-plateforme-zero-logement-vacant-a-ete-piratee.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
+    "https://korben.info/la-plateforme-zero-logement-vacant-a-ete-piratee.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/maintenant-monitoring-auto-heberge-conteneurs.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/whatcable-testeur-cables-usb-c-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
   ],
   "ZATAZ": [
     "https://www.zataz.com/planity-visee-par-une-vente-presumee-de-donnees-piratees/",
@@ -3711,7 +3739,8 @@
     "https://www.zataz.com/pwnforums-protege-t-il-deliberement-la-russie/",
     "https://www.zataz.com/lapsus-reapparait-autour-dune-attaque-contre-courir/",
     "https://www.zataz.com/cyberattaque-une-rentree-scolaire-sous-tension/",
-    "https://www.zataz.com/alaxione-68-millions-de-patients-revendiques/"
+    "https://www.zataz.com/alaxione-68-millions-de-patients-revendiques/",
+    "https://www.zataz.com/ne-devenez-pas-le-relais-involontaire-dune-intox/"
   ],
   "Undernews": [
     "https://www.undernews.fr/malwares-virus-antivirus/nouveau-voleur-de-donnees-macos-decouvert-par-group-ib-aucune-detection-sur-virustotal-aucune-exploitation-requise.html",
