@@ -294,7 +294,18 @@
     "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
     "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
     "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
-    "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html"
+    "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
+    "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
+    "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
+    "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
+    "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
+    "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
+    "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
+    "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
+    "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
+    "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
+    "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
+    "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -534,7 +545,18 @@
     "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
     "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
     "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
-    "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/"
+    "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/",
+    "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
+    "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
+    "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
+    "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
+    "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
+    "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
+    "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
+    "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
+    "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
+    "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
+    "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -737,7 +759,12 @@
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1094/",
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1095/",
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1096/",
-    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1097/"
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1097/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1098/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1099/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1100/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1101/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1102/"
   ],
   "CISA Advisories": [
     "https://www.cisa.gov/resources-tools/resources/2026-minimum-elements-software-bill-materials-sbom",
@@ -841,7 +868,13 @@
     "https://www.cisa.gov/news-events/alerts/2026/08/26/cisa-adds-six-known-exploited-vulnerabilities-catalog",
     "https://www.cisa.gov/resources-tools/resources/cisa-vulnerability-review",
     "https://www.cisa.gov/news-events/alerts/2026/08/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-    "https://www.cisa.gov/news-events/alerts/2026/08/31/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+    "https://www.cisa.gov/news-events/alerts/2026/08/31/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+    "https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-01",
+    "https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-06",
+    "https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-05",
+    "https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-03",
+    "https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-02",
+    "https://www.cisa.gov/news-events/ics-advisories/icsa-26-244-04"
   ],
   "Krebs on Security": [
     "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -858,7 +891,8 @@
     "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
     "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
     "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-    "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/"
+    "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+    "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/"
   ],
   "Schneier on Security": [
     "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
@@ -907,7 +941,10 @@
     "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html",
     "https://www.schneier.com/blog/archives/2026/08/hiding-prompt-injection-in-legal-filing.html",
     "https://www.schneier.com/blog/archives/2026/09/rewiring-democracy-series-on-the-renovator.html",
-    "https://www.schneier.com/blog/archives/2026/08/is-someone-hacking-dod-refrigerators.html"
+    "https://www.schneier.com/blog/archives/2026/08/is-someone-hacking-dod-refrigerators.html",
+    "https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html",
+    "https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html",
+    "https://www.schneier.com/blog/archives/2026/09/leaked-russian-cyber-operations-training-materials.html"
   ],
   "SANS Internet Storm Center": [
     "https://isc.sans.edu/diary/rss/33200",
@@ -969,7 +1006,8 @@
     "https://isc.sans.edu/diary/rss/33296",
     "https://isc.sans.edu/diary/rss/33302",
     "https://isc.sans.edu/diary/rss/33300",
-    "https://isc.sans.edu/diary/rss/33298"
+    "https://isc.sans.edu/diary/rss/33298",
+    "https://isc.sans.edu/diary/rss/33304"
   ],
   "Cisco Talos Intelligence": [
     "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
@@ -1095,7 +1133,11 @@
     "https://therecord.media/slovenia-cyberattack-casinos-reopen",
     "https://therecord.media/kansas-atm-jackpotting-guilty-pleas",
     "https://therecord.media/crypto-tectonic-hack-cronos",
-    "https://therecord.media/berlin-says-it-wont-pay-ransom-after-hackers-steal-gov-data"
+    "https://therecord.media/berlin-says-it-wont-pay-ransom-after-hackers-steal-gov-data",
+    "https://therecord.media/router-hacks-fire-ant-group-china",
+    "https://therecord.media/nutex-health-data-breach",
+    "https://therecord.media/iranian-cyber-spies-target-aviation-fintech-new-malware",
+    "https://therecord.media/cyber-risk-from-frontier-ai-most-immediate-concern-to-global-finance"
   ],
   "NCSC UK": [
     "https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027",
@@ -2283,7 +2325,11 @@
     "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
     "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
     "https://openai.com/index/polimill",
-    "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+    "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "https://openai.com/index/ai-native-company-workflows",
+    "https://openai.com/index/path-to-astra",
+    "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "https://openai.com/index/gilbert-tobin"
   ],
   "Anthropic News": [
     "https://www.anthropic.com/news/position-open-weights-models",
@@ -2303,7 +2349,8 @@
     "https://www.anthropic.com/news/wellbeing-research-grants",
     "https://www.anthropic.com/news/model-hardware-standard-research-preview",
     "https://www.anthropic.com/news/expanding-support-for-scientists",
-    "https://www.anthropic.com/news/improving-alignment-security-efforts"
+    "https://www.anthropic.com/news/improving-alignment-security-efforts",
+    "https://www.anthropic.com/news/enterprise-frontier-safeguards"
   ],
   "Google DeepMind Blog": [
     "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
@@ -2414,7 +2461,8 @@
     "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
     "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
     "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-    "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/"
+    "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "https://deepmind.google/blog/introducing-agentic-video-in-gemini/"
   ],
   "Google AI Blog": [
     "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
@@ -2445,7 +2493,9 @@
     "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
     "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
     "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-    "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"
+    "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+    "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+    "https://blog.google/products-and-platforms/products/workspace/google-pics/"
   ],
   "Claude Blog": [
     "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
@@ -2592,7 +2642,8 @@
     "https://blog.cloudflare.com/cloudflare-blog-uses-emdash/",
     "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
     "https://blog.cloudflare.com/botbase-for-operators/",
-    "https://blog.cloudflare.com/introducing-adaptive-intelligence/"
+    "https://blog.cloudflare.com/introducing-adaptive-intelligence/",
+    "https://blog.cloudflare.com/cache-transcoding/"
   ],
   "Hugging Face - Blog": [
     "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
@@ -3452,7 +3503,9 @@
     "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
     "https://huggingface.co/blog/pwc-search",
     "https://huggingface.co/blog/train-multi-vector-encoder",
-    "https://huggingface.co/blog/open-asr-leaderboard-global-south"
+    "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "https://huggingface.co/blog/allenai/benchmirt",
+    "https://huggingface.co/blog/webgpu-kernels"
   ],
   "Mistral AI": [
     "https://mistral.ai/news/manage-prompts-and-skills-in-studio/",
@@ -3629,7 +3682,9 @@
     "https://korben.info/openai-coupe-ses-modeles-a-cursor-apres-son-rachat-par-le-spacexai-de-musk.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/la-plateforme-zero-logement-vacant-a-ete-piratee.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/maintenant-monitoring-auto-heberge-conteneurs.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-    "https://korben.info/whatcable-testeur-cables-usb-c-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
+    "https://korben.info/whatcable-testeur-cables-usb-c-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/x-bloque-nitter-xcancel-lecture-tweets.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/nvidia-fruc-ffmpeg-vulkan.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
   ],
   "ZATAZ": [
     "https://www.zataz.com/planity-visee-par-une-vente-presumee-de-donnees-piratees/",
@@ -3788,6 +3843,8 @@
     "https://www.undernews.fr/hacking-hacktivisme/le-cybercriminel-derriere-teampcp-arrete-flare-revele-comment-ses-chercheurs-lont-desanonymise.html",
     "https://www.undernews.fr/reseau-securite/3-cyber-risques-majeurs-1-denominateur-commun-lhumain.html",
     "https://www.undernews.fr/banque-cartes-bancaires/etude-la-france-en-tete-des-pays-emea-pour-lexposition-des-identifiants-bancaires-et-fintech.html",
-    "https://www.undernews.fr/authentification-biometrie/faut-il-revoir-la-gestion-des-comptes-a-privileges-apres-le-piratage-de-la-dgfip.html"
+    "https://www.undernews.fr/authentification-biometrie/faut-il-revoir-la-gestion-des-comptes-a-privileges-apres-le-piratage-de-la-dgfip.html",
+    "https://www.undernews.fr/hacking-hacktivisme/kaspersky-les-escrocs-font-de-lia-une-arme-pour-usurper-lidentite-des-marques-aneantir-la-confiance-et-voler-des-milliards.html",
+    "https://www.undernews.fr/reseau-securite/93-des-responsables-technologiques-estiment-quun-stockage-de-sauvegardes-totalement-immuable-est-essentiel-pour-se-proteger-des-ransomwares.html"
   ]
 }
