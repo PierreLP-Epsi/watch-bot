@@ -331,7 +331,13 @@
     "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
     "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
     "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-    "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html"
+    "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+    "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+    "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
+    "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
+    "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+    "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
+    "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -605,7 +611,9 @@
     "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
     "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
     "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
-    "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/"
+    "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
+    "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
+    "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -3941,7 +3949,12 @@
     "https://www.zataz.com/bitbybit-studio-25-millions-de-lignes-revendiquees/",
     "https://www.zataz.com/une-fuite-dacces-it-francais-reapparait-sur-un-forum-pirate/",
     "https://www.zataz.com/carecloud-375-millions-de-victimes-apres-une-cyberattaque/",
-    "https://www.zataz.com/deux-suspects-interpelles-apres-le-piratage-du-fisc/"
+    "https://www.zataz.com/deux-suspects-interpelles-apres-le-piratage-du-fisc/",
+    "https://www.zataz.com/cyber-actualites-zataz-du-6-septembre/",
+    "https://www.zataz.com/togo-une-base-de-controle-de-police-exposee/",
+    "https://www.zataz.com/belgique-148-251-citoyens-exposes-selon-un-pirate/",
+    "https://www.zataz.com/legypte-ciblee-par-une-vague-de-fuites-massives/",
+    "https://www.zataz.com/un-pirate-expose-les-donnees-de-sms-xbomber/"
   ],
   "Undernews": [
     "https://www.undernews.fr/malwares-virus-antivirus/nouveau-voleur-de-donnees-macos-decouvert-par-group-ib-aucune-detection-sur-virustotal-aucune-exploitation-requise.html",
