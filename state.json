@@ -337,7 +337,9 @@
     "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
     "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
     "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
-    "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html"
+    "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+    "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+    "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -613,7 +615,14 @@
     "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
     "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
     "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
-    "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/"
+    "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
+    "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
+    "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
+    "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
+    "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
+    "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -1040,7 +1049,8 @@
     "https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html",
     "https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html",
     "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-squid-on-a-stick-at-the-new-york-state-fair.html",
-    "https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html"
+    "https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html",
+    "https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html"
   ],
   "SANS Internet Storm Center": [
     "https://isc.sans.edu/diary/rss/33200",
@@ -1107,7 +1117,8 @@
     "https://isc.sans.edu/diary/rss/33306",
     "https://isc.sans.edu/diary/rss/33308",
     "https://isc.sans.edu/diary/rss/33310",
-    "https://isc.sans.edu/diary/rss/33312"
+    "https://isc.sans.edu/diary/rss/33312",
+    "https://isc.sans.edu/diary/rss/33314"
   ],
   "Cisco Talos Intelligence": [
     "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
@@ -1250,7 +1261,8 @@
     "https://therecord.media/uk-account-hack-losses-surge-as-reporting-changes",
     "https://therecord.media/russia-data-centers-ukraine-drone-threats",
     "https://therecord.media/g7-urges-organizations-to-prepare-for-quantum-threats",
-    "https://therecord.media/us-reward-amir-yaryab-iran-irgc-cyberattacks"
+    "https://therecord.media/us-reward-amir-yaryab-iran-irgc-cyberattacks",
+    "https://therecord.media/germany-berlin-second-data-breach-city-agencies"
   ],
   "NCSC UK": [
     "https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027",
@@ -2449,7 +2461,10 @@
     "https://openai.com/index/playco-game-prototyping-with-astra",
     "https://openai.com/index/safety-overview-gpt-6-astra",
     "https://openai.com/index/gpt-4",
-    "https://openai.com/index/gpt-6-astra"
+    "https://openai.com/index/gpt-6-astra",
+    "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "https://openai.com/index/an-alien-mind",
+    "https://openai.com/index/research-acceleration-view-inside-openai"
   ],
   "Anthropic News": [
     "https://www.anthropic.com/news/position-open-weights-models",
@@ -3830,7 +3845,10 @@
     "https://korben.info/ntlite-personnaliser-image-windows.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/line-rider-jeu-dessin-physique-luge.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/dnsforge-dns-allemand-sans-publicite.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-    "https://korben.info/speakr-transcription-audio-self-hosted.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
+    "https://korben.info/speakr-transcription-audio-self-hosted.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/asahi-linux-support-m3-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/degoog-agregateur-moteurs-recherche-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/docuseal-alternative-docusign-open-source.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
   ],
   "ZATAZ": [
     "https://www.zataz.com/planity-visee-par-une-vente-presumee-de-donnees-piratees/",
@@ -4008,6 +4026,7 @@
     "https://www.undernews.fr/undernews/zimperium-identifie-des-arnaques-au-recrutement-recruittrap-ciblant-les-identifiants-professionnels-sur-mobile.html",
     "https://www.undernews.fr/reseau-securite/cloud-francais-et-donnees-de-sante-la-souverainete-numerique-ne-peut-plus-etre-une-option.html",
     "https://www.undernews.fr/alertes-securite/invitations-zoom-fichiers-partages-kaspersky-alerte-sur-47-millions-dattaques-ciblees-pour-la-rentree.html",
-    "https://www.undernews.fr/reseau-securite/77-des-utilisateurs-entretiennent-leur-smartphone-mais-delaissent-leur-ordinateur.html"
+    "https://www.undernews.fr/reseau-securite/77-des-utilisateurs-entretiennent-leur-smartphone-mais-delaissent-leur-ordinateur.html",
+    "https://www.undernews.fr/authentification-biometrie/detournement-de-compte-telegram-le-qr-code-de-connexion-reste-un-angle-mort.html"
   ]
 }
