@@ -387,7 +387,10 @@
     "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
     "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
     "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-    "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html"
+    "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
+    "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
+    "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+    "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -717,7 +720,8 @@
     "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
     "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
     "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-    "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/"
+    "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
+    "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
