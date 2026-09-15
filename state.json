@@ -392,7 +392,16 @@
     "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
     "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
     "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
-    "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html"
+    "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
+    "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
+    "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
+    "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
+    "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+    "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+    "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+    "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+    "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
+    "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -729,7 +738,17 @@
     "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
     "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
     "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/",
-    "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/"
+    "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
+    "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
+    "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
+    "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
+    "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+    "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
+    "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
+    "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+    "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -1001,7 +1020,12 @@
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1163/",
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1164/",
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1165/",
-    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1166/"
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1166/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1167/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1168/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1169/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1170/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1171/"
   ],
   "CISA Advisories": [
     "https://www.cisa.gov/resources-tools/resources/2026-minimum-elements-software-bill-materials-sbom",
@@ -1136,7 +1160,8 @@
     "https://www.cisa.gov/news-events/ics-advisories/icsa-26-183-01",
     "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-253-01",
     "https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-    "https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-one-known-exploited-vulnerability-catalog"
+    "https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-one-known-exploited-vulnerability-catalog",
+    "https://www.cisa.gov/news-events/alerts/2026/09/14/cisa-adds-one-known-exploited-vulnerability-catalog"
   ],
   "Krebs on Security": [
     "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -1223,7 +1248,11 @@
     "https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html",
     "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html",
     "https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html",
-    "https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html"
+    "https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html",
+    "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+    "https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html",
+    "https://www.schneier.com/blog/archives/2026/09/upcoming-speaking-engagements-60.html",
+    "https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html"
   ],
   "SANS Internet Storm Center": [
     "https://isc.sans.edu/diary/rss/33200",
@@ -1300,7 +1329,9 @@
     "https://isc.sans.edu/diary/rss/33330",
     "https://isc.sans.edu/diary/rss/33326",
     "https://isc.sans.edu/diary/rss/33332",
-    "https://isc.sans.edu/diary/rss/33334"
+    "https://isc.sans.edu/diary/rss/33334",
+    "https://isc.sans.edu/diary/rss/33338",
+    "https://isc.sans.edu/diary/rss/33336"
   ],
   "Cisco Talos Intelligence": [
     "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
@@ -1470,7 +1501,10 @@
     "https://therecord.media/anthropic-russia-hackers-claude",
     "https://therecord.media/conti-ransomware-ukraine-hacker",
     "https://therecord.media/revolut-scam-crypto-impersonation",
-    "https://therecord.media/nsa-reorganization-five-mission-centers"
+    "https://therecord.media/nsa-reorganization-five-mission-centers",
+    "https://therecord.media/members-of-black-axe-cybercrime-group-extradited-south-africa",
+    "https://therecord.media/ukraine-malware-russia-ransomware",
+    "https://therecord.media/hundreds-of-fake-gov-websites-central-asia-scam"
   ],
   "NCSC UK": [
     "https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027",
@@ -2866,7 +2900,9 @@
     "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
     "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
     "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
-    "https://blog.google/products-and-platforms/products/search/running-race-training-tips/"
+    "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
+    "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
   ],
   "Claude Blog": [
     "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
@@ -2919,7 +2955,11 @@
     "https://claude.com/blog/claude-for-commerce-agents",
     "https://claude.com/blog/reducing-cost-and-improving-performance-with-claude-platform",
     "https://claude.com/blog/t-rowe-price-brings-more-of-claude-to-its-investment-process",
-    "https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai"
+    "https://claude.com/blog/what-1-000-small-business-owners-taught-us-about-ai",
+    "https://claude.com/blog/agentic-coding-is-straining-ci-heres-how-we-scaled-test-impact-analysis-at-anthropic",
+    "https://claude.com/blog/claude-for-financial-advisors",
+    "https://claude.com/blog/how-healthcare-organizations-use-claude-tag",
+    "https://claude.com/blog/deploying-ai-from-pilot-to-production"
   ],
   "Cursor Blog": [
     "https://cursor.com/changelog/ipad",
@@ -4116,7 +4156,13 @@
     "https://korben.info/agents-ia-organisation-wiki-allemand.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/tomb-raider-peut-tourner-sur-un-esp32-p4.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/apple-configurator-iphone-dumbphone-temps-ecran.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-    "https://korben.info/gba-link-cable-internet-esp32.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
+    "https://korben.info/gba-link-cable-internet-esp32.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/kits-ia-korben-tutos-agents-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/deco-be25-5g-test.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/gnome-boxes-virtualisation-simple-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/spruceos-guide-installation-console-retro.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/test-thermal-master-p3-voir-ce-qui-chauffe-avec-son-smartphone.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/test-antro-avis.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
   ],
   "ZATAZ": [
     "https://www.zataz.com/planity-visee-par-une-vente-presumee-de-donnees-piratees/",
