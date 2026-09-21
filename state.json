@@ -447,7 +447,9 @@
     "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
     "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
     "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
-    "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html"
+    "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+    "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+    "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -833,7 +835,10 @@
     "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
     "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
     "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
-    "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/"
+    "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
+    "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+    "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -1484,7 +1489,9 @@
     "https://isc.sans.edu/diary/rss/33344",
     "https://isc.sans.edu/diary/rss/33352",
     "https://isc.sans.edu/diary/rss/33350",
-    "https://isc.sans.edu/diary/rss/33348"
+    "https://isc.sans.edu/diary/rss/33348",
+    "https://isc.sans.edu/diary/rss/33318",
+    "https://isc.sans.edu/diary/rss/33354"
   ],
   "Cisco Talos Intelligence": [
     "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
@@ -1678,7 +1685,9 @@
     "https://therecord.media/angola-israel-influence-operations-blackcore",
     "https://therecord.media/nations-take-action-on-north-korean-it-worker-schemes",
     "https://therecord.media/hacking-group-nighteagle-expands-russia-china",
-    "https://therecord.media/north-korean-hackers-infect-thousands-of-devices-waterplum-scheme"
+    "https://therecord.media/north-korean-hackers-infect-thousands-of-devices-waterplum-scheme",
+    "https://therecord.media/gemini-google-cyber-breach",
+    "https://therecord.media/russia-reports-cyberattacks-during-election"
   ],
   "NCSC UK": [
     "https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027",
@@ -4394,7 +4403,10 @@
     "https://korben.info/mechacon-ps2-craque-retro-ingenierie.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/des-agents-ia-spamment-le-web-pour-payer-leurs-propres-serveurs.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/google-home-laisse-chatgpt-et-claude-piloter-votre-maison.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-    "https://korben.info/windows-search-indexation-etendue-ssd.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
+    "https://korben.info/windows-search-indexation-etendue-ssd.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/bonjourr-extension-page-accueil-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/chatgpt-ad-collector-tracking.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/freebe-facturation-electronique-independants.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
   ],
   "ZATAZ": [
     "https://www.zataz.com/planity-visee-par-une-vente-presumee-de-donnees-piratees/",
