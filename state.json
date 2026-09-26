@@ -497,7 +497,13 @@
     "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
     "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
     "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
-    "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html"
+    "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
+    "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+    "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+    "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+    "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
+    "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
+    "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -929,7 +935,15 @@
     "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
     "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
     "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
-    "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/"
+    "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
+    "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
+    "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+    "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
+    "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
+    "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -1263,7 +1277,14 @@
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1224/",
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1225/",
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1226/",
-    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1227/"
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1227/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0644/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1228/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1229/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1230/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1231/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1232/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1233/"
   ],
   "CISA Advisories": [
     "https://www.cisa.gov/resources-tools/resources/2026-minimum-elements-software-bill-materials-sbom",
@@ -1435,7 +1456,9 @@
     "https://www.cisa.gov/resources-tools/resources/considerations-critical-infrastructure-operators-working-third-party-ics-integrators",
     "https://www.cisa.gov/news-events/ics-advisories/icsa-26-267-02",
     "https://www.cisa.gov/news-events/ics-advisories/icsa-26-267-01",
-    "https://www.cisa.gov/news-events/alerts/2026/09/24/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+    "https://www.cisa.gov/news-events/alerts/2026/09/24/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+    "https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+    "https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-one-known-exploited-vulnerability-catalog"
   ],
   "Krebs on Security": [
     "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -1455,7 +1478,8 @@
     "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
     "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
     "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
-    "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/"
+    "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+    "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/"
   ],
   "Schneier on Security": [
     "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
@@ -1536,7 +1560,8 @@
     "https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html",
     "https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html",
     "https://www.schneier.com/blog/archives/2026/09/malicious-npm-packages-that-evade-defenses.html",
-    "https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html"
+    "https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html",
+    "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-participatory-squid-dissection-in-october-in-tennessee.html"
   ],
   "SANS Internet Storm Center": [
     "https://isc.sans.edu/diary/rss/33200",
@@ -1849,7 +1874,12 @@
     "https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules",
     "https://therecord.media/rydox-criminal-marketplace-operator-pleads-guilty",
     "https://therecord.media/kyiv-internet-providers-report-outages-after-russian-strikes",
-    "https://therecord.media/astrana-cyberattack-sec-ransomware"
+    "https://therecord.media/astrana-cyberattack-sec-ransomware",
+    "https://therecord.media/kiteworks-urges-customers-to-stop-using-systems-incident",
+    "https://therecord.media/labcorp-to-overhaul-security-practices-settlement",
+    "https://therecord.media/crypto-ceo-accuses-north-korea-of-387-million-theft",
+    "https://therecord.media/wales-cyberattack-police-breach",
+    "https://therecord.media/openai-australia-breach-cyber"
   ],
   "NCSC UK": [
     "https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027",
@@ -3108,7 +3138,8 @@
     "https://openai.com/index/ringg",
     "https://openai.com/index/introducing-mentalhealthbench",
     "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-    "https://openai.com/index/airbnb-gpt-6-astra"
+    "https://openai.com/index/airbnb-gpt-6-astra",
+    "https://openai.com/index/proaction"
   ],
   "Anthropic News": [
     "https://www.anthropic.com/news/position-open-weights-models",
@@ -3368,7 +3399,8 @@
     "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
     "https://claude.com/blog/claude-marketplace",
     "https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels",
-    "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context"
+    "https://claude.com/blog/claude-opus-5-5-built-for-coding-sessions-that-use-more-context",
+    "https://claude.com/blog/build-plugins-for-claude"
   ],
   "Cursor Blog": [
     "https://cursor.com/changelog/ipad",
@@ -3488,7 +3520,8 @@
     "https://blog.cloudflare.com/python-workers-ga/",
     "https://blog.cloudflare.com/vary-support/",
     "https://blog.cloudflare.com/worker-previews/",
-    "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/"
+    "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
+    "https://blog.cloudflare.com/turnstile-spin/"
   ],
   "Hugging Face - Blog": [
     "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
