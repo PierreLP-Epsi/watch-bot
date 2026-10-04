@@ -555,7 +555,11 @@
     "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
     "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
     "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
-    "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html"
+    "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+    "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
+    "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
+    "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
+    "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -1051,7 +1055,11 @@
     "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
     "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
     "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
-    "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/"
+    "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
+    "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
+    "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
+    "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -1826,7 +1834,9 @@
     "https://isc.sans.edu/diary/rss/33382",
     "https://isc.sans.edu/diary/rss/33388",
     "https://isc.sans.edu/diary/rss/33386",
-    "https://isc.sans.edu/diary/rss/33390"
+    "https://isc.sans.edu/diary/rss/33390",
+    "https://isc.sans.edu/diary/rss/33394",
+    "https://isc.sans.edu/diary/rss/33392"
   ],
   "Cisco Talos Intelligence": [
     "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
@@ -4959,7 +4969,10 @@
     "https://korben.info/aircard-personnaliser-cartes-apple-wallet-iphone.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/tuta-mail-nextcloud.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/cpu-occasion-ban-valorant.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-    "https://korben.info/play-dos-jeux-ms-dos-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
+    "https://korben.info/play-dos-jeux-ms-dos-navigateur.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/applications-aller-en-manif.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/56k-rip-simulateur-modem-rtc.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/virtualmac-ipad-macos-virtualise.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
   ],
   "ZATAZ": [
     "https://www.zataz.com/planity-visee-par-une-vente-presumee-de-donnees-piratees/",
