@@ -603,7 +603,16 @@
     "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
     "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
     "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
-    "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html"
+    "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
+    "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+    "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+    "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+    "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+    "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+    "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
+    "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
+    "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+    "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -1150,7 +1159,12 @@
     "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
     "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
     "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
-    "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/"
+    "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
+    "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+    "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+    "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+    "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
+    "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -1540,7 +1554,16 @@
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1279/",
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1280/",
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1281/",
-    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1282/"
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1282/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1283/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1284/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1285/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1286/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1287/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1288/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1289/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1290/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1291/"
   ],
   "CISA Advisories": [
     "https://www.cisa.gov/resources-tools/resources/2026-minimum-elements-software-bill-materials-sbom",
@@ -1768,7 +1791,8 @@
     "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
     "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
     "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
-    "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/"
+    "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+    "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/"
   ],
   "Schneier on Security": [
     "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
@@ -1861,7 +1885,8 @@
     "https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html",
     "https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html",
     "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
-    "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html"
+    "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
+    "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html"
   ],
   "SANS Internet Storm Center": [
     "https://isc.sans.edu/diary/rss/33200",
@@ -1977,7 +2002,8 @@
     "https://isc.sans.edu/diary/rss/33408",
     "https://isc.sans.edu/diary/rss/33406",
     "https://isc.sans.edu/diary/rss/33412",
-    "https://isc.sans.edu/diary/rss/33410"
+    "https://isc.sans.edu/diary/rss/33410",
+    "https://isc.sans.edu/diary/rss/33414"
   ],
   "Cisco Talos Intelligence": [
     "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
@@ -2254,7 +2280,12 @@
     "https://therecord.media/lawmakers-warn-of-google-spirit-ai-training-deal",
     "https://therecord.media/flax-typhoon-china-tools-integrity-tech-international-takedown",
     "https://therecord.media/ransomware-recovery-charges-doj",
-    "https://therecord.media/asos-says-hackers-tricked-employee-access-push-notification"
+    "https://therecord.media/asos-says-hackers-tricked-employee-access-push-notification",
+    "https://therecord.media/japan-germany-ransomware-arrest",
+    "https://therecord.media/irhythm-data-breach-reports",
+    "https://therecord.media/leader-of-money-mule-operation-for-cybercriminals-pleads-guilty",
+    "https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation",
+    "https://therecord.media/belarusian-cyber-partisans-claim-2023-russia-healthcare-hack"
   ],
   "NCSC UK": [
     "https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027",
@@ -3543,7 +3574,35 @@
     "https://openai.com/index/oracle",
     "https://openai.com/index/pollo-ai",
     "https://openai.com/index/legalon-halves-codex-costs",
-    "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+    "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+    "https://openai.com/index/asana-browser-agent",
+    "https://openai.com/business/guides-and-resources/chatgpt-business-smb-guide",
+    "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents",
+    "https://openai.com/business/guides-and-resources/a-practical-guide-to-building-with-ai",
+    "https://openai.com/business/guides-and-resources/inside-gpt5-our-best-model-for-work",
+    "https://openai.com/business/guides-and-resources/how-openai-uses-codex",
+    "https://openai.com/business/learn/using-codex-across-the-software-development-lifecycle",
+    "https://openai.com/business/learn/how-openai-uses-chatgpt-atlas-at-work",
+    "https://openai.com/business/learn/gpt-5-our-best-model-for-work",
+    "https://openai.com/business/learn/delegate-work-to-chatgpt-agent",
+    "https://openai.com/business/learn/personalize-chatgpt-with-custom-instructions",
+    "https://openai.com/business/learn/collaborate-and-write-with-gpt-4o",
+    "https://openai.com/business/learn/create-on-brand-visuals-with-image-generation",
+    "https://openai.com/business/learn/automate-complex-workflows-with-openai-o3",
+    "https://openai.com/business/learn/connect-internal-knowledge-from-google-drive",
+    "https://openai.com/business/learn/prototyping-with-canvas-in-chatgpt",
+    "https://openai.com/business/learn/market-research-with-chatgpt",
+    "https://openai.com/business/learn/creating-a-contextual-workspace-in-chatgpt",
+    "https://openai.com/business/learn/writing-with-canvas-in-chatgpt",
+    "https://openai.com/business/learn/vision-and-voice-in-chatgpt",
+    "https://openai.com/business/learn/strategic-planning-with-chatgpt",
+    "https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt",
+    "https://openai.com/business/put-ai-to-work-for-marketing-teams",
+    "https://openai.com/business/solving-complex-problems-with-openai-o1-models",
+    "https://openai.com/business/put-ai-to-work-automate-and-scale-financial-operations",
+    "https://openai.com/business/put-ai-to-work-lessons-from-hundreds-of-successful-deployments",
+    "https://openai.com/business/fine-tuning-gpt-4o-webinar",
+    "https://openai.com/business/enabling-a-data-driven-workforce-webinar"
   ],
   "Anthropic News": [
     "https://www.anthropic.com/news/position-open-weights-models",
@@ -3998,7 +4057,8 @@
     "https://blog.cloudflare.com/radar-redesign/",
     "https://blog.cloudflare.com/agentic-security-operations/",
     "https://blog.cloudflare.com/workers-on-demand-profiling/",
-    "https://blog.cloudflare.com/deno-joins-cloudflare/"
+    "https://blog.cloudflare.com/deno-joins-cloudflare/",
+    "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/"
   ],
   "Hugging Face - Blog": [
     "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
@@ -4891,7 +4951,8 @@
     "https://huggingface.co/blog/tiiuae/falcon-asr",
     "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
     "https://huggingface.co/blog/LiquidAI/open-d1",
-    "https://huggingface.co/blog/building-with-ml-intern"
+    "https://huggingface.co/blog/building-with-ml-intern",
+    "https://huggingface.co/blog/allenai/impactful-scheduling"
   ],
   "Mistral AI": [
     "https://mistral.ai/news/manage-prompts-and-skills-in-studio/",
@@ -5204,7 +5265,8 @@
     "https://korben.info/pt-pc-portage-natif.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/firefox-nova-ancienne-interface.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/cloudflare-1111-blocage-dns-france.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-    "https://korben.info/nintendo-dsi-streaming-jeux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
+    "https://korben.info/nintendo-dsi-streaming-jeux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/ventoy-linux-steamos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
   ],
   "ZATAZ": [
     "https://www.zataz.com/planity-visee-par-une-vente-presumee-de-donnees-piratees/",
