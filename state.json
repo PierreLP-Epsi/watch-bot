@@ -612,7 +612,12 @@
     "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
     "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
     "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
-    "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html"
+    "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+    "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
+    "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
+    "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
+    "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+    "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -1167,7 +1172,13 @@
     "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
     "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
     "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
-    "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/"
+    "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
+    "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+    "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
+    "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
+    "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
+    "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -1566,7 +1577,10 @@
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1288/",
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1289/",
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1290/",
-    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1291/"
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1291/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1292/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1293/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1294/"
   ],
   "CISA Advisories": [
     "https://www.cisa.gov/resources-tools/resources/2026-minimum-elements-software-bill-materials-sbom",
@@ -1889,7 +1903,8 @@
     "https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html",
     "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
     "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
-    "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html"
+    "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
+    "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html"
   ],
   "SANS Internet Storm Center": [
     "https://isc.sans.edu/diary/rss/33200",
@@ -2006,7 +2021,8 @@
     "https://isc.sans.edu/diary/rss/33406",
     "https://isc.sans.edu/diary/rss/33412",
     "https://isc.sans.edu/diary/rss/33410",
-    "https://isc.sans.edu/diary/rss/33414"
+    "https://isc.sans.edu/diary/rss/33414",
+    "https://isc.sans.edu/diary/rss/33416"
   ],
   "Cisco Talos Intelligence": [
     "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
@@ -2288,7 +2304,8 @@
     "https://therecord.media/irhythm-data-breach-reports",
     "https://therecord.media/leader-of-money-mule-operation-for-cybercriminals-pleads-guilty",
     "https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation",
-    "https://therecord.media/belarusian-cyber-partisans-claim-2023-russia-healthcare-hack"
+    "https://therecord.media/belarusian-cyber-partisans-claim-2023-russia-healthcare-hack",
+    "https://therecord.media/ukraine-strikes-third-yandex-data-center"
   ],
   "NCSC UK": [
     "https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027",
@@ -3884,7 +3901,18 @@
     "https://claude.com/blog/claude-for-government-is-now-generally-available",
     "https://claude.com/blog/how-anthropics-sales-team-rebuilt-inbound-with-claude-managed-agents",
     "https://claude.com/blog/claude-code-mods",
-    "https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk"
+    "https://claude.com/blog/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk",
+    "https://claude.dev/blog/building-effective-agent-automations/",
+    "https://claude.com/resources/articles/how-block-orchestrates-claude-fable-across-thousands-of-pull-requests",
+    "https://claude.com/resources/articles/dashboards-and-motion",
+    "https://www.anthropic.com/claude-haiku-5-5",
+    "https://claude.dev/blog/automating-eval-design-and-hillclimbing/",
+    "https://claude.com/resources/articles/how-comcast-booz-allen-use-claude-mythos-to-secure-their-codebases",
+    "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+    "https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build",
+    "https://www.anthropic.com/news/cyber-verification-program",
+    "https://claude.dev/blog/claude-code-in-the-cloud/",
+    "https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk"
   ],
   "Cursor Blog": [
     "https://cursor.com/changelog/ipad",
@@ -4061,7 +4089,8 @@
     "https://blog.cloudflare.com/agentic-security-operations/",
     "https://blog.cloudflare.com/workers-on-demand-profiling/",
     "https://blog.cloudflare.com/deno-joins-cloudflare/",
-    "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/"
+    "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
+    "https://blog.cloudflare.com/transformers-on-logpush/"
   ],
   "Hugging Face - Blog": [
     "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
@@ -5269,7 +5298,11 @@
     "https://korben.info/firefox-nova-ancienne-interface.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/cloudflare-1111-blocage-dns-france.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/nintendo-dsi-streaming-jeux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-    "https://korben.info/ventoy-linux-steamos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
+    "https://korben.info/ventoy-linux-steamos.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/onlyoffice-10-ia-applications.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/slot-frontend-game-boy-rg-sp.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/carafe-jeux-windows-switch.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/windows-11-lien-learn-more-corrige.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
   ],
   "ZATAZ": [
     "https://www.zataz.com/planity-visee-par-une-vente-presumee-de-donnees-piratees/",
@@ -5435,7 +5468,16 @@
     "https://www.zataz.com/dark-web-un-vendeur-de-cocaine-arrete/",
     "https://www.zataz.com/adecco-une-base-de-2022-proposee-a-la-vente/",
     "https://www.zataz.com/cgt-une-base-diffusee-des-chiffres-gonfles-par-les-doublons/",
-    "https://www.zataz.com/reconnaissance-faciale-un-visage-masque-reste-identifiable/"
+    "https://www.zataz.com/reconnaissance-faciale-un-visage-masque-reste-identifiable/",
+    "https://www.zataz.com/une-cyberattaque-deregle-le-froid-des-supermarches/",
+    "https://www.zataz.com/data-centers-russes-la-guerre-hybride-frappe-le-cloud/",
+    "https://www.zataz.com/vacaf-139-million-de-lignes-revendiquees-a-la-vente/",
+    "https://www.zataz.com/lookup-un-site-ferme-trois-adolescents-interpelles/",
+    "https://www.zataz.com/nudeleaksteens-plus-de-17-000-femmes-identifiees/",
+    "https://www.zataz.com/piratage-du-fbi-un-correctif-oublie-chez-un-prestataire/",
+    "https://www.zataz.com/asos-une-menace-de-fuite-envoyee-aux-clients/",
+    "https://www.zataz.com/ddos-une-menace-pour-la-participation-democratique/",
+    "https://www.zataz.com/infogreffe-vise-par-une-revendication-de-fuite-de-donnees/"
   ],
   "Undernews": [
     "https://www.undernews.fr/malwares-virus-antivirus/nouveau-voleur-de-donnees-macos-decouvert-par-group-ib-aucune-detection-sur-virustotal-aucune-exploitation-requise.html",
