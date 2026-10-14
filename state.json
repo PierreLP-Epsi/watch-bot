@@ -625,7 +625,20 @@
     "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
     "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
     "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
-    "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html"
+    "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+    "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+    "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+    "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+    "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+    "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+    "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+    "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
+    "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+    "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+    "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+    "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+    "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+    "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -1192,7 +1205,20 @@
     "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
     "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
     "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-    "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/"
+    "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+    "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+    "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+    "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+    "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+    "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
+    "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
+    "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
+    "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
+    "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
+    "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -1800,7 +1826,11 @@
     "https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-03",
     "https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-02",
     "https://www.cisa.gov/news-events/ics-advisories/icsa-26-281-01",
-    "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-281a"
+    "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-281a",
+    "https://www.cisa.gov/news-events/ics-advisories/icsa-26-286-02",
+    "https://www.cisa.gov/news-events/ics-advisories/icsa-26-286-01",
+    "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-urges-patching-newly-exploited-vulnerability-ivanti-connect-secure",
+    "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-adds-two-known-exploited-vulnerabilities-catalog"
   ],
   "Krebs on Security": [
     "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -1824,7 +1854,8 @@
     "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
     "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
     "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-    "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/"
+    "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+    "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/"
   ],
   "Schneier on Security": [
     "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
@@ -2038,7 +2069,10 @@
     "https://isc.sans.edu/diary/rss/33410",
     "https://isc.sans.edu/diary/rss/33414",
     "https://isc.sans.edu/diary/rss/33416",
-    "https://isc.sans.edu/diary/rss/33418"
+    "https://isc.sans.edu/diary/rss/33418",
+    "https://isc.sans.edu/diary/rss/33420",
+    "https://isc.sans.edu/diary/rss/33424",
+    "https://isc.sans.edu/diary/rss/33422"
   ],
   "Cisco Talos Intelligence": [
     "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
@@ -2091,7 +2125,8 @@
     "https://blog.talosintelligence.com/uat-11985/",
     "https://blog.talosintelligence.com/ignore-all-instructions-and-read-this-blog-the-state-of-ai-analysis-evasion-in-malware/",
     "https://blog.talosintelligence.com/microsoft-adobe-apple-and-foxit-vulnerabilities/",
-    "https://blog.talosintelligence.com/making-sure-the-checks-get-printed/"
+    "https://blog.talosintelligence.com/making-sure-the-checks-get-printed/",
+    "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/"
   ],
   "The Record": [
     "https://therecord.media/north-korea-hackers-amazon-malware",
@@ -2325,7 +2360,12 @@
     "https://therecord.media/russian-internet-provider-skynet-reports-outages-ddos",
     "https://therecord.media/ledger-cryptocurrency-wallet-implant-theft",
     "https://therecord.media/foschini-group-south-africa-cyber",
-    "https://therecord.media/cyberattack-groceru-ahold-delhaize"
+    "https://therecord.media/cyberattack-groceru-ahold-delhaize",
+    "https://therecord.media/saudi-national-charged-with-spy-device-openai",
+    "https://therecord.media/north-korea-laptop-farms-worker-scams-doj-raids-texas",
+    "https://therecord.media/sextortion-assistance-company-alleged-fraud-ftc-complaint",
+    "https://therecord.media/sandbox-vulnerability-gives-rogue-ai-agents-path-out",
+    "https://therecord.media/ghana-nigeria-scam-centers-raided-uk-us"
   ],
   "NCSC UK": [
     "https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027",
@@ -3642,7 +3682,9 @@
     "https://openai.com/business/put-ai-to-work-automate-and-scale-financial-operations",
     "https://openai.com/business/put-ai-to-work-lessons-from-hundreds-of-successful-deployments",
     "https://openai.com/business/fine-tuning-gpt-4o-webinar",
-    "https://openai.com/business/enabling-a-data-driven-workforce-webinar"
+    "https://openai.com/business/enabling-a-data-driven-workforce-webinar",
+    "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "https://openai.com/index/higgsfield-longer-videos-voice"
   ],
   "Anthropic News": [
     "https://www.anthropic.com/news/position-open-weights-models",
@@ -3795,7 +3837,11 @@
     "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
     "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
     "https://deepmind.google/blog/introducing-synthid-bio/",
-    "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
+    "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "https://deepmind.google/blog/introducing-gemini-4-argon/"
   ],
   "Google AI Blog": [
     "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
@@ -3845,7 +3891,8 @@
     "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
     "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
     "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-    "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
+    "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
   ],
   "Claude Blog": [
     "https://claude.com/blog/bringing-mcp-2026-07-28-to-claude",
@@ -3932,7 +3979,8 @@
     "https://claude.com/resources/articles/were-expanding-the-claude-startups-program-to-help-founders-build",
     "https://www.anthropic.com/news/cyber-verification-program",
     "https://claude.dev/blog/claude-code-in-the-cloud/",
-    "https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk"
+    "https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk",
+    "https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai"
   ],
   "Cursor Blog": [
     "https://cursor.com/changelog/ipad",
@@ -3972,7 +4020,8 @@
     "https://cursor.com/blog/grab",
     "https://x.ai/news/grok-4-7",
     "https://cursor.com/changelog/rollouts-and-security-reviewer",
-    "https://cursor.com/changelog/remote-control-local-agents"
+    "https://cursor.com/changelog/remote-control-local-agents",
+    "https://cursor.com/changelog/origin-app-marketplace"
   ],
   "Cloudflare Blog": [
     "https://blog.cloudflare.com/cdnjs-dev-platform-migration/",
@@ -4110,7 +4159,9 @@
     "https://blog.cloudflare.com/workers-on-demand-profiling/",
     "https://blog.cloudflare.com/deno-joins-cloudflare/",
     "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
-    "https://blog.cloudflare.com/transformers-on-logpush/"
+    "https://blog.cloudflare.com/transformers-on-logpush/",
+    "https://blog.cloudflare.com/d1-control-plane/",
+    "https://blog.cloudflare.com/rewinding-the-exponential/"
   ],
   "Hugging Face - Blog": [
     "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
@@ -5004,7 +5055,8 @@
     "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
     "https://huggingface.co/blog/LiquidAI/open-d1",
     "https://huggingface.co/blog/building-with-ml-intern",
-    "https://huggingface.co/blog/allenai/impactful-scheduling"
+    "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
   ],
   "Mistral AI": [
     "https://mistral.ai/news/manage-prompts-and-skills-in-studio/",
@@ -5328,7 +5380,12 @@
     "https://korben.info/printr-imprimante-tickets.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/macspace-donnees-systeme-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/crafting-apps-artcraft.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-    "https://korben.info/test-du-dangbei-n3-max-le-projecteur-au-rapport-qualite-prix-imbattable.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
+    "https://korben.info/test-du-dangbei-n3-max-le-projecteur-au-rapport-qualite-prix-imbattable.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/qbz-fin-client-qobuz-linux.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/rea-reverse-engineering-agent-ia-test.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/ported2browser.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/petit-prince-jeu-3d-ia.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/xboxrecomp-recompilation-statique-xbox.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
   ],
   "ZATAZ": [
     "https://www.zataz.com/planity-visee-par-une-vente-presumee-de-donnees-piratees/",
@@ -5613,6 +5670,7 @@
     "https://www.undernews.fr/culture-web-emploi/evenements/filigran-reunit-la-communaute-mondiale-de-la-cyberdefense-lors-de-la-premiere-edition-de-thread.html",
     "https://www.undernews.fr/malwares-virus-antivirus/flare-devoile-une-nouvelle-menace-clickfix-qui-dissimule-son-code-malveillant-via-dns.html",
     "https://www.undernews.fr/reseau-securite/cybersecurite-jusquou-peut-on-laisser-agir-les-agents-ia.html",
-    "https://www.undernews.fr/reseau-securite/cybersecurite-ot-71-des-industriels-ont-detecte-des-intrusions-en-2026.html"
+    "https://www.undernews.fr/reseau-securite/cybersecurite-ot-71-des-industriels-ont-detecte-des-intrusions-en-2026.html",
+    "https://www.undernews.fr/hacking-hacktivisme/cyberattaque-contre-intermarche-les-commentaires-de-samuel-hassine-ceo-de-filigran.html"
   ]
 }
