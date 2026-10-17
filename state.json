@@ -663,7 +663,13 @@
     "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
     "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
     "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
-    "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html"
+    "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
+    "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+    "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+    "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+    "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+    "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+    "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -1263,7 +1269,11 @@
     "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
     "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
     "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
-    "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/"
+    "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
+    "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+    "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+    "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
+    "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -1697,7 +1707,17 @@
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1323/",
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1324/",
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1325/",
-    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1326/"
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1326/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1327/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1328/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1329/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1330/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1331/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1332/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1333/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1334/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1335/",
+    "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1336/"
   ],
   "CISA Advisories": [
     "https://www.cisa.gov/resources-tools/resources/2026-minimum-elements-software-bill-materials-sbom",
@@ -1913,7 +1933,11 @@
     "https://www.cisa.gov/news-events/ics-advisories/icsa-26-288-02",
     "https://www.cisa.gov/news-events/alerts/2026/10/15/cisa-adds-one-known-exploited-vulnerability-catalog",
     "https://www.cisa.gov/news-events/ics-advisories/icsa-26-288-01",
-    "https://www.cisa.gov/news-events/ics-advisories/icsa-26-280-01"
+    "https://www.cisa.gov/news-events/ics-advisories/icsa-26-280-01",
+    "https://www.cisa.gov/resources-tools/resources/key-practices-incident-readiness-and-response-super-intelligence-training-and-evaluation",
+    "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
+    "https://www.cisa.gov/resources-tools/resources/cyber-threat-actors-use-variety-techniques-target-election-and-campaign-officials",
+    "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-adds-two-known-exploited-vulnerabilities-catalog"
   ],
   "Krebs on Security": [
     "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
@@ -2039,7 +2063,8 @@
     "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
     "https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html",
     "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
-    "https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html"
+    "https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html",
+    "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html"
   ],
   "SANS Internet Storm Center": [
     "https://isc.sans.edu/diary/rss/33200",
@@ -2469,7 +2494,11 @@
     "https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage",
     "https://therecord.media/spyware-citizen-lab-advertising",
     "https://therecord.media/uk-legal-aid-cyberattack-data",
-    "https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage"
+    "https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage",
+    "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
+    "https://therecord.media/russia-datasuckers-hackers-arrested",
+    "https://therecord.media/anne-arundel-county-maryland-confirms-data-breach",
+    "https://therecord.media/beyond-trust-cyberattack-china"
   ],
   "NCSC UK": [
     "https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027",
@@ -3795,7 +3824,10 @@
     "https://openai.com/index/block-ai-powered-security",
     "https://openai.com/index/introducing-the-rosalind-academic-plan",
     "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-    "https://openai.com/index/sullivan-cromwell"
+    "https://openai.com/index/sullivan-cromwell",
+    "https://openai.com/index/itau-generative-ai",
+    "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "https://openai.com/index/benefit-street-partners"
   ],
   "Anthropic News": [
     "https://www.anthropic.com/news/position-open-weights-models",
@@ -4097,7 +4129,9 @@
     "https://claude.com/resources/articles/how-cresta-turned-cx-expertise-into-an-agent-builder-on-the-claude-agent-sdk",
     "https://claude.com/resources/articles/uber-s-ciso-on-building-an-insider-threat-program-for-ai",
     "https://claude.com/resources/articles/agent-observability-on-the-claude-platform",
-    "https://claude.com/resources/articles/code-review-is-now-generally-available"
+    "https://claude.com/resources/articles/code-review-is-now-generally-available",
+    "https://claude.com/resources/articles/how-an-anthropic-japan-business-development-representative-runs-his-day",
+    "https://claude.dev/blog/solving-code-review-at-anthropic/"
   ],
   "Cursor Blog": [
     "https://cursor.com/changelog/ipad",
@@ -4138,7 +4172,8 @@
     "https://x.ai/news/grok-4-7",
     "https://cursor.com/changelog/rollouts-and-security-reviewer",
     "https://cursor.com/changelog/remote-control-local-agents",
-    "https://cursor.com/changelog/origin-app-marketplace"
+    "https://cursor.com/changelog/origin-app-marketplace",
+    "https://cursor.com/changelog/cloud-agent-canvases-and-environments"
   ],
   "Cloudflare Blog": [
     "https://blog.cloudflare.com/cdnjs-dev-platform-migration/",
@@ -4283,7 +4318,8 @@
     "https://blog.cloudflare.com/hyperdrive-mysql/",
     "https://blog.cloudflare.com/programmable-gateway-dlp/",
     "https://blog.cloudflare.com/deploy-with-void/",
-    "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/"
+    "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
+    "https://blog.cloudflare.com/verified-bots-accountability/"
   ],
   "Hugging Face - Blog": [
     "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
@@ -5183,7 +5219,8 @@
     "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
     "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
     "https://huggingface.co/blog/meta-muse-spark-open",
-    "https://huggingface.co/blog/flux-3"
+    "https://huggingface.co/blog/flux-3",
+    "https://huggingface.co/blog/reflection-beam"
   ],
   "Mistral AI": [
     "https://mistral.ai/news/manage-prompts-and-skills-in-studio/",
@@ -5695,7 +5732,10 @@
     "https://www.zataz.com/piratage-du-fbi-un-correctif-oublie-chez-un-prestataire/",
     "https://www.zataz.com/asos-une-menace-de-fuite-envoyee-aux-clients/",
     "https://www.zataz.com/ddos-une-menace-pour-la-participation-democratique/",
-    "https://www.zataz.com/infogreffe-vise-par-une-revendication-de-fuite-de-donnees/"
+    "https://www.zataz.com/infogreffe-vise-par-une-revendication-de-fuite-de-donnees/",
+    "https://www.zataz.com/doctolib-mon-opposition-a-lia-reste-sans-reponse-claire/",
+    "https://www.zataz.com/cyberattaques-les-supermarches-europeens-perturbes/",
+    "https://www.zataz.com/iphone-16-pro-reconditionne-les-controles-de-securite/"
   ],
   "Undernews": [
     "https://www.undernews.fr/malwares-virus-antivirus/nouveau-voleur-de-donnees-macos-decouvert-par-group-ib-aucune-detection-sur-virustotal-aucune-exploitation-requise.html",
@@ -5812,6 +5852,7 @@
     "https://www.undernews.fr/reseau-securite/le-risque-en-matiere-de-cybersecurite-differe-selon-les-professions-revele-une-etude-kaspersky.html",
     "https://www.undernews.fr/reseau-securite/menaces-russes-iraniennes-et-ia-contre-le-royaume-uni-les-commentaires-de-neena-sharma-de-filigran.html",
     "https://www.undernews.fr/hacking-hacktivisme/piratage-de-frigos-connectes-dans-les-supermarches-les-systemes-cyber-physiques-face-au-risque-dattaque-decryptage-de-kaspersky.html",
-    "https://www.undernews.fr/reseau-securite/anti-ddos-comment-etre-certain-quune-solution-protege-correctement.html"
+    "https://www.undernews.fr/reseau-securite/anti-ddos-comment-etre-certain-quune-solution-protege-correctement.html",
+    "https://www.undernews.fr/reseau-securite/cyberattaque-contre-intermarche-les-commentaires-de-samuel-hassine-ceo-de-filigran-2.html"
   ]
 }
