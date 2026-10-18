@@ -669,7 +669,9 @@
     "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
     "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
     "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
-    "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html"
+    "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+    "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+    "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -1273,7 +1275,9 @@
     "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
     "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
     "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
-    "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/"
+    "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+    "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+    "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -5557,7 +5561,8 @@
     "https://korben.info/opencnc3d-command-conquer-64-pc-mac.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/hacking-social-hub404.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/llama-windows-llm-local.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-    "https://korben.info/shotnix.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
+    "https://korben.info/shotnix.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/test-du-ssd-nvme-1-to-fanxiang-dans-mon-nas.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
   ],
   "ZATAZ": [
     "https://www.zataz.com/planity-visee-par-une-vente-presumee-de-donnees-piratees/",
@@ -5735,7 +5740,13 @@
     "https://www.zataz.com/infogreffe-vise-par-une-revendication-de-fuite-de-donnees/",
     "https://www.zataz.com/doctolib-mon-opposition-a-lia-reste-sans-reponse-claire/",
     "https://www.zataz.com/cyberattaques-les-supermarches-europeens-perturbes/",
-    "https://www.zataz.com/iphone-16-pro-reconditionne-les-controles-de-securite/"
+    "https://www.zataz.com/iphone-16-pro-reconditionne-les-controles-de-securite/",
+    "https://www.zataz.com/la-chine-veut-controler-ses-exportations-dia/",
+    "https://www.zataz.com/fuite-de-donnees-la-fftir-de-nouveau-ciblee/",
+    "https://www.zataz.com/cyberattaques-des-sites-francais-cibles-par-des-pirates/",
+    "https://www.zataz.com/phishing-une-operation-frappe-trois-kits-pirate/",
+    "https://www.zataz.com/taxis-et-vtc-ce-que-vos-donnees-revelent-de-vous/",
+    "https://www.zataz.com/leboncoin-et-vinted-des-notifications-suspectes/"
   ],
   "Undernews": [
     "https://www.undernews.fr/malwares-virus-antivirus/nouveau-voleur-de-donnees-macos-decouvert-par-group-ib-aucune-detection-sur-virustotal-aucune-exploitation-requise.html",
