@@ -671,7 +671,10 @@
     "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
     "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
     "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-    "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html"
+    "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+    "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
+    "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
+    "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -1277,7 +1280,10 @@
     "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
     "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
     "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
-    "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/"
+    "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
+    "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
+    "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -2068,7 +2074,8 @@
     "https://www.schneier.com/blog/archives/2026/10/cyberattack-on-connected-fridges-in-france.html",
     "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
     "https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html",
-    "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html"
+    "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html",
+    "https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html"
   ],
   "SANS Internet Storm Center": [
     "https://isc.sans.edu/diary/rss/33200",
@@ -2194,7 +2201,8 @@
     "https://isc.sans.edu/diary/rss/33428",
     "https://isc.sans.edu/diary/rss/33426",
     "https://isc.sans.edu/diary/rss/33432",
-    "https://isc.sans.edu/diary/rss/33430"
+    "https://isc.sans.edu/diary/rss/33430",
+    "https://isc.sans.edu/diary/rss/33434"
   ],
   "Cisco Talos Intelligence": [
     "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
@@ -2502,7 +2510,8 @@
     "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
     "https://therecord.media/russia-datasuckers-hackers-arrested",
     "https://therecord.media/anne-arundel-county-maryland-confirms-data-breach",
-    "https://therecord.media/beyond-trust-cyberattack-china"
+    "https://therecord.media/beyond-trust-cyberattack-china",
+    "https://therecord.media/russia-cyberattack-firstvds-cloud"
   ],
   "NCSC UK": [
     "https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027",
@@ -3864,7 +3873,8 @@
     "https://www.anthropic.com/news/anthropic-cyber-mission",
     "https://www.anthropic.com/news/2026-us-midterms",
     "https://www.anthropic.com/news/singapore-office-opening",
-    "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+    "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+    "https://www.anthropic.com/news/public-benefit-fund"
   ],
   "Google DeepMind Blog": [
     "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
@@ -4323,7 +4333,8 @@
     "https://blog.cloudflare.com/programmable-gateway-dlp/",
     "https://blog.cloudflare.com/deploy-with-void/",
     "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
-    "https://blog.cloudflare.com/verified-bots-accountability/"
+    "https://blog.cloudflare.com/verified-bots-accountability/",
+    "https://blog.cloudflare.com/protect-your-netscaler-gateway/"
   ],
   "Hugging Face - Blog": [
     "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
@@ -5224,7 +5235,8 @@
     "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
     "https://huggingface.co/blog/meta-muse-spark-open",
     "https://huggingface.co/blog/flux-3",
-    "https://huggingface.co/blog/reflection-beam"
+    "https://huggingface.co/blog/reflection-beam",
+    "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes"
   ],
   "Mistral AI": [
     "https://mistral.ai/news/manage-prompts-and-skills-in-studio/",
@@ -5562,7 +5574,12 @@
     "https://korben.info/hacking-social-hub404.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/llama-windows-llm-local.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
     "https://korben.info/shotnix.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
-    "https://korben.info/test-du-ssd-nvme-1-to-fanxiang-dans-mon-nas.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
+    "https://korben.info/test-du-ssd-nvme-1-to-fanxiang-dans-mon-nas.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/korben-remote-desktop.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/plmail-client-mail-auto-heberge.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/keepsweeper-demineur-strategie-temps-reel.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/music-bridge-extension-liens-musique.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal",
+    "https://korben.info/data-brokers-que-savent-ils-de-vous.html?utm_source=rss&utm_medium=feed&utm_campaign=flux-principal"
   ],
   "ZATAZ": [
     "https://www.zataz.com/planity-visee-par-une-vente-presumee-de-donnees-piratees/",
