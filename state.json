@@ -736,7 +736,10 @@
     "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
     "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
     "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-    "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html"
+    "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+    "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+    "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+    "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -1391,7 +1394,8 @@
     "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
     "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
     "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-    "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/"
+    "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+    "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
