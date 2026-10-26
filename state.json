@@ -739,7 +739,14 @@
     "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
     "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
     "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-    "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html"
+    "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+    "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+    "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+    "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+    "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+    "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+    "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+    "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html"
   ],
   "BleepingComputer": [
     "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
@@ -1395,7 +1402,10 @@
     "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
     "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
     "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-    "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/"
+    "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+    "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+    "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+    "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/"
   ],
   "CERT-FR (ANSSI)": [
     "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-0320/",
@@ -2264,7 +2274,8 @@
     "https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html",
     "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
     "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
-    "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html"
+    "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
+    "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html"
   ],
   "SANS Internet Storm Center": [
     "https://isc.sans.edu/diary/rss/33200",
@@ -2398,7 +2409,10 @@
     "https://isc.sans.edu/diary/rss/33440",
     "https://isc.sans.edu/diary/rss/33448",
     "https://isc.sans.edu/diary/rss/33452",
-    "https://isc.sans.edu/diary/rss/33450"
+    "https://isc.sans.edu/diary/rss/33450",
+    "https://isc.sans.edu/diary/rss/33442",
+    "https://isc.sans.edu/diary/rss/33456",
+    "https://isc.sans.edu/diary/rss/33454"
   ],
   "Cisco Talos Intelligence": [
     "https://blog.talosintelligence.com/black-hat-special-rewind-and-revisit/",
@@ -2736,7 +2750,8 @@
     "https://therecord.media/fcc-bans-devices-huawei-surveillance-chips",
     "https://therecord.media/uk-undersea-cables-sabotage-new-sentencing-guidelines",
     "https://therecord.media/quest-diagnostics-network-intrusion",
-    "https://therecord.media/php-php2shell-exploitation-attempts-pocs"
+    "https://therecord.media/php-php2shell-exploitation-attempts-pocs",
+    "https://therecord.media/litellm-hackers-ai-malware"
   ],
   "NCSC UK": [
     "https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027",
@@ -6069,7 +6084,8 @@
     "https://www.zataz.com/fraude-bancaire-deux-mails-pour-installer-la-peur/",
     "https://www.zataz.com/deepseek-banni-des-agences-federales-civiles-americaines/",
     "https://www.zataz.com/point-vision-des-donnees-de-patients-derobees/",
-    "https://www.zataz.com/technostress-une-faille-pour-lingenierie-sociale/"
+    "https://www.zataz.com/technostress-une-faille-pour-lingenierie-sociale/",
+    "https://www.zataz.com/chimeraz-revendique-des-fuites-visant-trois-partis-francais/"
   ],
   "Undernews": [
     "https://www.undernews.fr/malwares-virus-antivirus/nouveau-voleur-de-donnees-macos-decouvert-par-group-ib-aucune-detection-sur-virustotal-aucune-exploitation-requise.html",
